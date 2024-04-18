@@ -22,25 +22,25 @@ comportamiento y respuesta a diferentes entradas.
 7. Realizar un análisis comparativo entre los controladores analógicos y
 digitales, discutiendo las ventajas y desventajas de cada uno. 
 ## Conclusiones: 
-• Los controladores analógicos y digitales tienen diferentes ventajas y
+- Los controladores analógicos y digitales tienen diferentes ventajas y
 desventajas dependiendo de la aplicación específica. 
-• El amplificador operacional es una herramienta fundamental en el control de
+- El amplificador operacional es una herramienta fundamental en el control de
 sistemas electrónicos. 
-• Los circuitos electrónicos analógicos y digitales son importantes en la
+- Los circuitos electrónicos analógicos y digitales son importantes en la
 automatización de procesos y sistemas de control. 
-• Los controladores digitales pueden ser programados utilizando lenguajes de
+- Los controladores digitales pueden ser programados utilizando lenguajes de
 programación como Python y C++ 
-• La combinación de circuitos combinacionales y secuenciales permite un 
+- La combinación de circuitos combinacionales y secuenciales permite un 
 mayor grado de control y flexibilidad en la automatización y control de
 sistemas. 
  
 ## Entrega del trabajo práctico: 
-• El trabajo práctico será valorado en la semana del 16/04 al 22/04 
-• Su recuperatorio constara de una oportunidad pautada 
-• Se deben incluir las simulaciones de los circuitos diseñados. 
-• Se debe entregar el código programado en Python utilizado para analizar el
+- El trabajo práctico será valorado en la semana del 16/04 al 22/04 
+- Su recuperatorio constara de una oportunidad pautada 
+- Se deben incluir las simulaciones de los circuitos diseñados. 
+- Se debe entregar el código programado en Python utilizado para analizar el
 controlador digital. 
-• Se pueden utilizar herramientas como Proteus, VSCODE Python y Colab. 
-• Se deberá incluir una bibliografía de las fuentes consultadas para la
+- Se pueden utilizar herramientas como Proteus, VSCODE Python y Colab. 
+- Se deberá incluir una bibliografía de las fuentes consultadas para la
 elaboración del trabajo práctico. 
-• Se valorará la originalidad, creatividad y profundidad del análisis realizado.
+- Se valorará la originalidad, creatividad y profundidad del análisis realizado.
