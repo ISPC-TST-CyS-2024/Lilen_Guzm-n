@@ -1,4 +1,4 @@
-#Trabajo practico #2 #
+#Trabajo practico #2 
 Controladores analógicos y digitales. Circuitos combinacionales y secuenciales. 
 Objetivos: 
 • Familiarizarse con los conceptos de controladores analógicos y digitales. 
