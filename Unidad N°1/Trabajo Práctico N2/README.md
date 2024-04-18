@@ -1,13 +1,13 @@
-#Trabajo practico #2 
-Controladores analógicos y digitales. Circuitos combinacionales y secuenciales. 
-Objetivos: 
+# Trabajo practico #2 
+## Controladores analógicos y digitales. Circuitos combinacionales y secuenciales. 
+## Objetivos: 
 • Familiarizarse con los conceptos de controladores analógicos y digitales. 
 • Comprender el papel del amplificador operacional en el control de sistemas. 
 • Diseñar y simular circuitos electrónicos analógicos y digitales. 
 • Analizar el comportamiento de un controlador y su respuesta a diferentes
 entradas.
  
-Desarrollo: 
+## Desarrollo: 
 1. Realizar un análisis de los diferentes tipos de controladores y su clasificación 
 según su función.
 2. Investigar y discutir sobre la historia y evolución de los controladores
@@ -21,7 +21,7 @@ electrónico.
 comportamiento y respuesta a diferentes entradas.
 7. Realizar un análisis comparativo entre los controladores analógicos y
 digitales, discutiendo las ventajas y desventajas de cada uno. 
-Conclusiones: 
+## Conclusiones: 
 • Los controladores analógicos y digitales tienen diferentes ventajas y
 desventajas dependiendo de la aplicación específica. 
 • El amplificador operacional es una herramienta fundamental en el control de
@@ -34,7 +34,7 @@ programación como Python y C++
 mayor grado de control y flexibilidad en la automatización y control de
 sistemas. 
  
-Entrega del trabajo práctico: 
+## Entrega del trabajo práctico: 
 • El trabajo práctico será valorado en la semana del 16/04 al 22/04 
 • Su recuperatorio constara de una oportunidad pautada 
 • Se deben incluir las simulaciones de los circuitos diseñados. 
